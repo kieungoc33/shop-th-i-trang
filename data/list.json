@@ -1,0 +1,282 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "product_name" : "Áo sơ mi lụa thêu hoa",
+            "price": 625000,
+            "image_url":"a1.jpg",
+           "type_product": "Áo sơ mi",
+            "gender": "Nữ"
+        },
+        {
+            "id": 2,
+            "product_name" : "Áo sơ mi Tencel",
+            "price": 795000,
+            "description": "Áo sơ mi cổ đức, dáng oversize với thiết kế tay ngắn kèm dây buộc nơ tạo kiểu. Dọc thân áo là khuy cài kim loại thanh lịch. Áo xẻ tà 2 bên",
+           "type_product": "Áo sơ mi",
+            "gender": "Nữ",
+            "image_url":"a2.jpg"
+
+
+        },
+        {
+            "id": 3,
+            "product_name" : "Áo sơ mi họa tiết ren",
+            "price": 763000,
+            "description": "Chất liệu sợi vải mềm mịn, thoáng mát được tuyển chọn cẩn thận để đảm bảo sự thoải mái tuyệt đối khi mặc vào. Kiểu dáng áo dài thướt tha sẽ tôn lên vẻ đẹp sang trọng",
+           "type_product": "Áo sơ mi",
+            "gender": "Nữ",
+            "image_url":"a3.jpg"
+
+        },
+        {
+            "id": 4,
+            "product_name" : "Áo thun đính hoa",
+            "price": 325000,
+            "description": "Áo thun cổ tròn, tay ngắn. Dáng dài suông. Mặt trước trang trí bông hoa tạo kiểu.Chất liệu thun mang đặc tính co dãn, thấm hút mồ hôi vượt trội mang đến vẻ đẹp trẻ trung, năng động cho người mặc",
+           "type_product": "Áo thun",
+            "gender": "Nữ",
+            "image_url":"at1.jpg"
+
+        },
+        {
+            "id": 5,
+            "product_name" : "Áo thun phối chữ LOVE",
+            "price": 230000,
+            "description": "Áo chất thun, cổ tròn, tay ngắn, dáng suông. Trên vai được phối cùng phụ kiện đính kết từ voan và ngọc trai",
+           "type_product": "Áo thun",
+            "gender": "Nữ",
+            "image_url":"at2.jpg"
+
+        },
+        {
+            "id": 6,
+            "product_name" : "Áo thun trơn cổ đức khuy ngọc trai",
+            "price": 230000,
+            "description": "Áo thun cổ đức, cài bằng hàng khuy ngọc trai phía trước. Kiểu dáng, màu sắc basic, dáng suông cơ bản",
+           "type_product": "Áo thun",
+            "gender": "Nữ",
+            "image_url":"at3.jpg"
+
+        },
+        {
+            "id": 7,
+            "product_name" : "Chân váy xếp ly dáng xuông",
+            "price": 370000,
+            "description": "Chân váy sở hữu thiết kế xếp ly tinh tế tạo ra những uyển chuyển thướt tha khi di chuyển. Với chất liệu vải lụa mềm mại, chân váy không chỉ mang đến sự thoải mái khi mặc mà còn tạo nên sự sang trọng, quý phải",
+           "type_product": "Chân váy",
+            "gender": "Nữ",
+            "image_url":"cv1.jpg"
+
+        },
+        {
+            "id": 8,
+            "product_name" : "Chân váy xòe phối ly",
+            "price": 525000,
+            "description": "Kiểu dáng xoè nhẹ về đuôi và thiết kế xếp ly tạo sự phóng khoáng và trẻ trung cho người mặc. Điểm nhấn của thiết kế là hàng khuy ngọc đính kèm ở cạp váy, tăng thêm sự sang trọng và thu hút",
+           "type_product": "Chân váy",
+            "gender": "Nữ",
+            "image_url":"cv2.jpg"
+
+        },
+        {
+            "id": 9,
+            "product_name" : "Chân váy chữ A phối viền hoa nổi",
+            "price": 460000,
+            "description": "Chiếc váy có phom dáng chữ A, mang đến vẻ thanh lịch và trang nhã cho người diện. Điểm nhấn đặc biệt của chiếc váy chính là viền hoa may nổi bật và thu hút bằng vải ren trên thân váy",
+            "type_product": "Chân váy",
+            "gender": "Nữ",
+            "image_url":"cv3.jpg"
+        },
+        {
+            "id": 10,
+            "product_name" : "Quần dài ống rộng",
+            "price": 435000,
+            "description": "Quần dài ống rộng, độ dài qua mắt cá chân. Quần cạp cao, có khóa kéo bên hông",
+            "type_product": "Quần",
+            "gender": "Nữ",
+            "image_url":"q1.jpg"
+
+        },
+        {
+            "id": 11,
+            "product_name" : "Quần bò rách may viền",
+            "price": 495000,
+            "description": "Quần jean ống đứng, dáng suông, độ dài đến mắt cá chân. Phía trước có may viền sọc cách điệu. Bên đùi phải tạo kiểu rách. 2 túi sau mông. Đai quần có khuy cài và đỉa quần",
+            "type_product": "Quần",
+            "gender": "Nữ",
+            "image_url":"q2.jpg"
+
+        },
+        {
+            "id": 12,
+            "product_name" : "Quần sooc nữ trơn",
+            "price": 320000,
+            "description": "Quần sooc nữ, suông ống đứng. Độ dài ngang đùi. Có 2 túi 2 bên. Cài bằng móc khóa ẩn và dây kéo phía trước",
+            "type_product": "Quần",
+            "gender": "Nữ",
+            "image_url":"q3.jpg"
+
+        },
+        
+        {
+            "id": 13,
+            "product_name" : "Quần sooc nữ trơn",
+            "price": 320000,
+            "description": "Quần sooc nữ, suông ống đứng. Độ dài ngang đùi. Có 2 túi 2 bên. Cài bằng móc khóa ẩn và dây kéo phía trước",
+            "type_product": "Quần",
+            "gender": "Nữ",
+            "image_url":"q3.jpg"
+
+        },
+        {
+            "id": 14,
+            "product_name" : "Túi da xách tay",
+            "price": 399000,
+            "description": "Mẫu túi xách tay size medium, chất liệu da PU. Bên trong lót vải, có 1 ngăn ẩn. Quai xách cố định, không tháo rời và điều chỉnh được",
+            "type_product": "Túi",
+            "gender": "Nữ", 
+            "image_url":"t1.jpg"
+
+        },
+        {
+            "id": 15,
+            "product_name" : "Túi da đeo tay",
+            "price": 895000,
+            "description": "Túi xách size medium, chất liệu da PU. Bên trong lót vải, có 1 ngăn ẩn. Quai đeo vai cố định, không tháo rời và điều chỉnh được. Có túi nhỏ đi kèm",
+            "type_product": "Túi",
+            "gender": "Nữ", 
+            "image_url":"t2.jpg"
+
+        },
+        {
+            "id": 16,
+            "product_name" : "Túi mini dáng dài",
+            "price": 395000,
+            "description": "Túi dáng mini cho nàng thích sự nhỏ nhắn đáng yêu. Túi da màu đen basic, nắp nam châm tiện lợi phù hợp với nhiều kiểu trang phục",
+            "type_product": "Túi",
+            "gender": "Nữ", 
+            "image_url":"t3.jpg"
+
+        },
+        {
+            "id": 17,
+            "product_name" : "Gìay mũi nhọn",
+            "price": 199000,
+            "description": "Giày mũi nhọn, Gót nhỏ cao 3cm. 1 dây quai ngang móc cài. Phối 2 màu tạo kiểu",
+            "type_product": "Giày",
+            "gender": "Nữ", 
+            "image_url":"g1.jpg"
+        },
+        {
+            "id": 18,
+            "product_name" : "Giày cao gót đế nhựa",
+            "price": 199000,
+            "description": "Giày mũi nhọn, Gót nhỏ cao 3cm. 1 dây quai ngang móc cài. Phối 2 màu tạo kiểu",
+            "type_product": "Giày",
+            "gender": "Nữ", 
+            "image_url":"g2.jpg"
+
+        },
+        {
+            "id": 19,
+            "product_name" : "Giày búp bê Retro",
+            "price": 1190000,
+            "description": "Giày búp bê mũi bít mang kiểu dáng cổ điển. Gót vuông cao 3cm. Chất liệu da trơn bóng, đai có đính ngọc trai mang lại vẻ thanh lịch",
+            "type_product": "Giày",
+            "gender": "Nữ", 
+            "image_url":"g3.jpg"
+
+        },
+        {
+            "id": 20,
+            "product_name" : "Áo thun nam phối túi hộp",
+            "price": 345000,
+            "description": "Áo thun trơn cổ tròn basic, Chất áo thun thoáng mát cho các chàng trai vận động thoải mái",
+            "type_product": "Áo thun",
+            "gender": "Nam", 
+            "image_url":"an1.jpg"
+
+        },
+        {
+            "id": 21,
+            "product_name" : "Áo thun IN QUOTE",
+            "price": 345000,
+            "description": "Áo thun dáng cơ bản, ôm nhẹ nhưng không bó, có động rộng nhất định. Tay ngắn, cổ tròn",
+            "type_product": "Áo thun",
+            "gender": "Nam", 
+            "image_url":"an2.jpg"
+
+        },
+        {
+            "id": 22,
+            "product_name" : "Áo thun nam SAVE",
+            "price": 357000,
+            "description": "Áo thun cổ tròn. Tay áo dài bo gấu. Chữ khác màu 1 bên ngực.Sử dụng chất liệu thun mềm mại, thông thoáng và co giãn tối ưu, tạo cảm giác thoải mái khi mặcÁo thun cổ tròn. Tay áo dài bo gấu",
+            "type_product": "Áo thun",
+            "gender": "Nam", 
+            "image_url":"an3.jpg"
+
+        },
+        {
+            "id": 23,
+            "product_name" : "Áo khoác gió cổ mũ ",
+            "price": 545000,
+            "description": "Áo khoác gió 2 lớp phom suông rộng, giúp người mặc thoải mái trong từng cử động, nhưng đồng thời vẫn đảm bảo vừa vặn về số đo vai, độ dài tay, áo",
+            "type_product": "Áo khoác",
+            "gender": "Nam", 
+            "image_url":"ak1.jpg"
+
+        },
+        {
+            "id": 24,
+            "product_name" : "Áo khoác dạ nam dáng dài ",
+            "price": 1107000,
+            "description": "Áo khoác dạ cổ 2 ve khoét chữ K. Tay dài có 3 khuy trang trí. 2 túi vuông có nắp 2 bên. Dáng áo suông dài. Cài bằng hàng khuy phía trước",
+            "type_product": "Áo khoác",
+            "gender": "Nam", 
+            "image_url":"ak2.jpg"
+        },
+        {
+            "id": 25,
+            "product_name" : "Áo khoác blazer nam ",
+            "price": 807000,
+            "description": "Áo khoác blazer cổ 2 ve khoét chữ K. Tay dài. Vai đệm. 2 nắp túi bên tà và 1 viền túi giả bên ngực. Có hàng 6 khuy phía trước. Sau lưng có đai kèm khuy",
+            "type_product": "Áo khoác",
+            "gender": "Nam", 
+            "image_url":"ak3.jpg"
+
+        },
+        {
+            "id": 26,
+            "product_name" : "Quần gió cạp chun ",
+            "price": 595000,
+            "description": "Quần gió nam cạp chun co giãn có dây kéo rút. 2 túi chéo. Dáng quần Regular",
+            "type_product": "Quần",
+            "gender": "Nam", 
+            "image_url":"qn1.jpg"
+
+        },
+        {
+            "id": 27,
+            "product_name" : "Quần bò Skinny ",
+            "price": 575000,
+            "description": "Quần bò dáng skinny ôm nhẹ. Phía trước được đánh bạc sáng màu. Thiết kế năng động và trẻ trung, phù hợp cho những dịp đi chơi của chàng",
+            "type_product": "Quần",
+            "gender": "Nam", 
+            "image_url":"qn2.jpg"
+
+        },
+       {
+            "id": 28,
+            "product_name" : "Quần dạ dáng Regular ",
+            "price": 575000,
+            "description": "Quần bò dáng skinny ôm nhẹ. Phía trước được đánh bạc sáng màu. Thiết kế năng động và trẻ trung, phù hợp cho những dịp đi chơi của chàng",
+            "type_product": "Quần",
+            "gender": "Nam", 
+            "image_url":"qn3.jpg"
+       }
+        
+       
+    ]
+}
